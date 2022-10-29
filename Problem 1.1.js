@@ -24,7 +24,6 @@ function friend(friends){
 }
 // console.log(friend(["Ryan", "Kieran", "Jason", "Yous"]));
 
-
 // Way: 2
 function friend(friends) {
     let i = 0;
